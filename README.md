@@ -6,18 +6,28 @@
 
 <!-- Short Description as to who I am and what my goal is? -->
 
-<p align="center" style="margin-bottom:2px;"> I am a Software Engineer with a Backend Developement background</p>
-<p align="center">Investing my free time studying all aspect of 3D Game Development</p>
+<p align="center"> I am a Software Engineer with a Backend Developement background <br>
+Investing my free time studying all aspect of 3D Game Development</p>
 
 <!-- Section to link to my Programming Philosophy, Game Development Path, and Backend Experiences -->
 
 <!-- Apparently Github strips out all the style tags... -->
-<!--    
-<div style="display:flex;justify-content:center">
-    <a style="flex:auto;" align="center" href="/principle.md"> Programming Principles </a>
-    <div style="border:solid 1px"></div>
-    <a style="flex:auto;" align="center" href="/web-dev.md"> Web Development </a>
-    <div style="border:solid 1px"></div>
-    <a style="flex:auto;" align="center" href="/game-dev.md"> Game Development </a>
-</div>
--->
+<!-- So mo more fancy Style tags.-->
+   
+<p align="center">
+    <a align="center" href="/principle.md"> Programming Principles </a>
+    &nbsp; | &nbsp;
+    <!-- <p align="center"> | </p> -->
+    <a align="center" href="/web-dev.md"> Web Development </a>
+    &nbsp; | &nbsp;
+    <a align="center" href="/game-dev.md"> Game Development </a>
+</p>
+
+<!-- Version 2:
+
+What I can do for you in:
+- [Web Development](/web-dev.md)
+- [Game Development](/game-dev.md)
+
+my thoughts on random stuff:
+- [Programming Principles](/principle.md) -->
