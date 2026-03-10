@@ -15,7 +15,7 @@ Investing my free time studying all aspect of 3D Game Development</p>
 <!-- So mo more fancy Style tags.-->
    
 <p align="center">
-    <a align="center" href="/principle.md"> Programming Principles </a>
+    <a align="center" href="/programmer.md"> General Programming </a>
     &nbsp; | &nbsp;
     <!-- <p align="center"> | </p> -->
     <a align="center" href="/web-dev.md"> Web Development </a>
