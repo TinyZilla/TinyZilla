@@ -11,6 +11,8 @@
 
 <!-- Section to link to my Programming Philosophy, Game Development Path, and Backend Experiences -->
 
+<!-- Apparently Github strips out all the style tags... -->
+<!--    
 <div style="display:flex;justify-content:center">
     <a style="flex:auto;" align="center" href="/principle.md"> Programming Principles </a>
     <div style="border:solid 1px"></div>
@@ -18,3 +20,4 @@
     <div style="border:solid 1px"></div>
     <a style="flex:auto;" align="center" href="/game-dev.md"> Game Development </a>
 </div>
+-->
