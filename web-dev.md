@@ -37,7 +37,7 @@ This is definitely a more "trail by fire" experience for me. I wore many hats an
 
 The project has a lot that could be improved on, but it is still working well and serving the customer till this day. You can check it out [here](https://www.ctrlv.ca/booking/location).
 
-### Internal Tooling @ Ritual.co
+### Internal Tooling @ [Ritual.co](https://ritual.co/)
 
 Ritual is a food ordering platform aimed at metropolitan office workers. I was there during its growth phase. The team I was part of is in charge of building internal tools and dashboards to manage merchants and users alike.
 
@@ -51,7 +51,7 @@ This is also a place where I was exposed to DevOps tools and processes such as D
 
 ### Mobile Game Services @ Kabam
 
-I was part of the Marvel Contest of Champions's backend team, creating backend services to handle new features and progression systems. During my time there, I was part of the team that shipped:
+I was part of the [Marvel Contest of Champions](https://playcontestofchampions.com/)'s backend team, creating backend services to handle new features and progression systems. During my time there, I was part of the team that shipped:
 - Relics -- equipment system for character to boost & alter gameplay
 - Ascension -- power up system for older character to boost stats
 - 7 Stat Focus -- unique mechanic for the new rarity of characters which boost player selected stats.
