@@ -49,4 +49,4 @@ I enjoyed the ease of use of GDScript, wrote plenty of Godot Shader materials, a
 I am currently experimenting with Bevy with my personal projects. It is not very mature and doesn't even have an editor. But its ECS framework is very intuitive for someone who came from a back-end background and worked a decent amount in the context of databases.
 
 
-Rust is also a language I find increased fondness towards, so I am working with this engine to explore its capabilities at the moment.
+The modular nature of the engine also encourages me to design systems in a modular, easy to reuse way. The open source community of the Bevy project also spawns a lot of 3rd party open sourced tools and projects that I could learn from. Rust is also a language I find increased fondness towards, so I am working with this engine to explore its capabilities at the moment.
